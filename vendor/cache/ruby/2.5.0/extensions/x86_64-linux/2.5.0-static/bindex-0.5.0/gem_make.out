@@ -1,0 +1,15 @@
+current directory: /home/mypc/odin_on_rails/my_first_rails_app/vendor/cache/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+/home/mypc/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20180812-16935-1prnrl.rb extconf.rb
+creating Makefile
+
+current directory: /home/mypc/odin_on_rails/my_first_rails_app/vendor/cache/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /home/mypc/odin_on_rails/my_first_rails_app/vendor/cache/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+current directory: /home/mypc/odin_on_rails/my_first_rails_app/vendor/cache/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20180812-16935-14z2hc4/bindex
